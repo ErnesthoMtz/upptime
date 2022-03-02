@@ -4,9 +4,9 @@
     "url": "https://preregistrate.mx",
     "icon": "https://favicons.githubusercontent.com/preregistrate.mx",
     "slug": "pre-registrate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 246,
     "timeMonth": 335,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "GamaVirtual",
