@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/preregistrate.mx",
     "slug": "pre-registrate",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 325,
-    "timeDay": 464,
-    "timeWeek": 222,
-    "timeMonth": 325,
-    "timeYear": 325,
-    "dailyMinutesDown": {
-      "2022-03-02": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 317,
+    "timeDay": 87,
+    "timeWeek": 225,
+    "timeMonth": 317,
+    "timeYear": 317,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GamaVirtual",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 905,
-    "timeWeek": 248,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "time": 252,
+    "timeDay": 137,
+    "timeWeek": 255,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 159,
-    "timeWeek": 197,
-    "timeMonth": 386,
-    "timeYear": 386,
+    "time": 379,
+    "timeDay": 201,
+    "timeWeek": 205,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {}
   }
 ]
