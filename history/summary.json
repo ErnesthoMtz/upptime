@@ -40,7 +40,7 @@
     "url": "https://midesarrollotec.mx",
     "icon": "https://favicons.githubusercontent.com/midesarrollotec.mx",
     "slug": "mi-desarrollo-tec",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 412,
     "timeMonth": 321,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-14": 0
+    }
   }
 ]
