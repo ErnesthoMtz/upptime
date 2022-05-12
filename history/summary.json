@@ -4,10 +4,10 @@
     "url": "https://preregistrate.mx",
     "icon": "https://favicons.githubusercontent.com/preregistrate.mx",
     "slug": "pre-registrate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 318,
@@ -16,6 +16,7 @@
     "timeMonth": 197,
     "timeYear": 318,
     "dailyMinutesDown": {
+      "2022-05-12": 1,
       "2022-03-14": 250
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://gamavirtual.mx",
     "icon": "https://favicons.githubusercontent.com/gamavirtual.mx",
     "slug": "gama-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "34.30%",
+    "uptimeDay": "89.32%",
     "uptimeWeek": "90.09%",
     "uptimeMonth": "97.72%",
     "uptimeYear": "99.09%",
@@ -36,6 +37,7 @@
     "timeMonth": 209,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2022-05-12": 1,
       "2022-05-11": 999,
       "2022-03-14": 249
     }
@@ -45,7 +47,7 @@
     "url": "https://midesarrollotec.mx",
     "icon": "https://favicons.githubusercontent.com/midesarrollotec.mx",
     "slug": "mi-desarrollo-tec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,6 +59,7 @@
     "timeMonth": 300,
     "timeYear": 315,
     "dailyMinutesDown": {
+      "2022-05-12": 0,
       "2022-03-23": 51,
       "2022-03-22": 39,
       "2022-03-14": 332
