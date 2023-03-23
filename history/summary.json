@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
-    "time": 570,
-    "timeDay": 236,
-    "timeWeek": 158,
-    "timeMonth": 215,
+    "time": 568,
+    "timeDay": 64,
+    "timeWeek": 153,
+    "timeMonth": 211,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2022-10-10": 1123,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 871,
-    "timeDay": 309,
-    "timeWeek": 1523,
-    "timeMonth": 1594,
-    "timeYear": 952,
+    "time": 869,
+    "timeDay": 83,
+    "timeWeek": 1525,
+    "timeMonth": 1419,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2022-05-12": 212,
       "2022-05-11": 999
@@ -50,21 +50,19 @@
     "slug": "mi-desarrollo-tec",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.90%",
-    "time": 756,
-    "timeDay": 252,
-    "timeWeek": 265,
-    "timeMonth": 1252,
-    "timeYear": 801,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.92%",
+    "time": 763,
+    "timeDay": 1859,
+    "timeWeek": 699,
+    "timeMonth": 1367,
+    "timeYear": 814,
     "dailyMinutesDown": {
-      "2023-03-22": 10,
       "2022-11-24": 119,
       "2022-11-23": 70,
-      "2022-05-12": 224,
-      "2022-03-23": 51
+      "2022-05-12": 224
     }
   }
 ]
