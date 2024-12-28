@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/preregistrate.mx.ico",
     "slug": "pre-registrate",
     "status": "down",
-    "uptime": "64.04%",
+    "uptime": "63.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 169,
-    "timeDay": 93,
-    "timeWeek": 103,
-    "timeMonth": 116,
+    "timeDay": 61,
+    "timeWeek": 94,
+    "timeMonth": 115,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-12-27": 103,
+      "2024-12-28": 101,
+      "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
@@ -379,8 +380,7 @@
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
-      "2023-12-30": 1440,
-      "2023-12-29": 1440
+      "2023-12-30": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gamavirtual.mx.ico",
     "slug": "gama-virtual",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.99%",
-    "time": 1171,
-    "timeDay": 464,
-    "timeWeek": 789,
-    "timeMonth": 531,
-    "timeYear": 1040,
+    "uptime": "99.79%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.09%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "99.71%",
+    "time": 1164,
+    "timeDay": 0,
+    "timeWeek": 913,
+    "timeMonth": 520,
+    "timeYear": 1042,
     "dailyMinutesDown": {
-      "2024-12-27": 65
+      "2024-12-28": 101,
+      "2024-12-27": 1402
     }
   },
   {
@@ -414,10 +415,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1093,
-    "timeDay": 486,
-    "timeWeek": 880,
-    "timeMonth": 457,
+    "time": 1084,
+    "timeDay": 481,
+    "timeWeek": 914,
+    "timeMonth": 444,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2024-02-08": 483
