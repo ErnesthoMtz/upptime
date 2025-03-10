@@ -4,14 +4,14 @@
     "url": "https://preregistrate.mx",
     "icon": "https://icons.duckduckgo.com/ip3/preregistrate.mx.ico",
     "slug": "pre-registrate",
-    "status": "up",
-    "uptime": "99.52%",
+    "status": "down",
+    "uptime": "99.53%",
     "uptimeDay": "30.91%",
-    "uptimeWeek": "27.99%",
-    "uptimeMonth": "82.07%",
-    "uptimeYear": "98.51%",
+    "uptimeWeek": "28.02%",
+    "uptimeMonth": "82.53%",
+    "uptimeYear": "98.54%",
     "time": 122,
-    "timeDay": 142,
+    "timeDay": 141,
     "timeWeek": 134,
     "timeMonth": 130,
     "timeYear": 123,
@@ -23,7 +23,7 @@
       "2025-03-06": 1168,
       "2025-03-05": 1097,
       "2025-03-04": 968,
-      "2025-03-03": 985
+      "2025-03-03": 783
     }
   },
   {
