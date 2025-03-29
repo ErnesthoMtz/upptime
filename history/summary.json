@@ -4,12 +4,12 @@
     "url": "https://preregistrate.mx",
     "icon": "https://icons.duckduckgo.com/ip3/preregistrate.mx.ico",
     "slug": "pre-registrate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
     "uptimeDay": "55.17%",
-    "uptimeWeek": "19.37%",
-    "uptimeMonth": "71.94%",
-    "uptimeYear": "97.66%",
+    "uptimeWeek": "20.24%",
+    "uptimeMonth": "71.99%",
+    "uptimeYear": "97.67%",
     "time": 127,
     "timeDay": 142,
     "timeWeek": 136,
@@ -28,7 +28,7 @@
       "2025-03-20": 708,
       "2025-03-19": 1002,
       "2025-03-18": 1079,
-      "2025-03-17": 343
+      "2025-03-17": 321
     }
   },
   {
@@ -37,7 +37,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gamavirtual.mx.ico",
     "slug": "gama-virtual",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
