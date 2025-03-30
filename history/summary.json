@@ -4,12 +4,12 @@
     "url": "https://preregistrate.mx",
     "icon": "https://icons.duckduckgo.com/ip3/preregistrate.mx.ico",
     "slug": "pre-registrate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "29.77%",
-    "uptimeWeek": "30.35%",
-    "uptimeMonth": "73.44%",
-    "uptimeYear": "97.79%",
+    "uptimeDay": "32.76%",
+    "uptimeWeek": "30.78%",
+    "uptimeMonth": "73.56%",
+    "uptimeYear": "97.80%",
     "time": 139,
     "timeDay": 130,
     "timeWeek": 261,
@@ -27,7 +27,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 922,
       "2025-03-20": 708,
-      "2025-03-19": 191
+      "2025-03-19": 138
     }
   },
   {
@@ -37,7 +37,7 @@
     "slug": "gama-virtual",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "81.46%",
+    "uptimeDay": "84.46%",
     "uptimeWeek": "95.93%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "96.97%",
@@ -45,7 +45,7 @@
     "timeDay": 3701,
     "timeWeek": 1912,
     "timeMonth": 804,
-    "timeYear": 995,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2025-03-30": 181,
       "2025-03-29": 230,
@@ -70,7 +70,7 @@
     "slug": "mi-desarrollo-tec",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "81.46%",
+    "uptimeDay": "84.45%",
     "uptimeWeek": "95.93%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.92%",
@@ -78,7 +78,7 @@
     "timeDay": 204,
     "timeWeek": 2239,
     "timeMonth": 1152,
-    "timeYear": 1020,
+    "timeYear": 1023,
     "dailyMinutesDown": {
       "2025-03-30": 181,
       "2025-03-29": 229,
