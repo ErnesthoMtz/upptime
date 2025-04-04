@@ -6,17 +6,17 @@
     "slug": "pre-registrate",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "90.75%",
-    "uptimeWeek": "63.69%",
-    "uptimeMonth": "73.52%",
-    "uptimeYear": "97.79%",
+    "uptimeDay": "91.10%",
+    "uptimeWeek": "63.74%",
+    "uptimeMonth": "73.42%",
+    "uptimeYear": "97.78%",
     "time": 139,
-    "timeDay": 150,
-    "timeWeek": 236,
+    "timeDay": 157,
+    "timeWeek": 237,
     "timeMonth": 162,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-04-03": 132,
+      "2025-04-03": 127,
       "2025-04-02": 179,
       "2025-04-01": 503,
       "2025-03-31": 606,
@@ -29,7 +29,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 347
+      "2025-03-21": 397
     }
   },
   {
