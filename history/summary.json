@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.95%",
+    "uptimeYear": "92.96%",
     "time": 166,
-    "timeDay": 271,
-    "timeWeek": 188,
+    "timeDay": 134,
+    "timeWeek": 186,
     "timeMonth": 175,
     "timeYear": 181,
     "dailyMinutesDown": {
@@ -48,8 +48,7 @@
       "2025-04-29": 68,
       "2025-04-14": 1210,
       "2025-04-13": 1430,
-      "2025-04-12": 1440,
-      "2025-04-11": 338
+      "2025-04-12": 1440
     }
   },
   {
@@ -58,15 +57,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gamavirtual.mx.ico",
     "slug": "gama-virtual",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 1418,
-    "timeDay": 4045,
-    "timeWeek": 2585,
-    "timeMonth": 2502,
+    "timeDay": 153,
+    "timeWeek": 1979,
+    "timeMonth": 2339,
     "timeYear": 1534,
     "dailyMinutesDown": {
       "2026-03-03": 72,
@@ -89,10 +88,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 1250,
-    "timeDay": 4023,
-    "timeWeek": 1909,
-    "timeMonth": 1768,
-    "timeYear": 1380,
+    "timeDay": 121,
+    "timeWeek": 1894,
+    "timeMonth": 1766,
+    "timeYear": 1379,
     "dailyMinutesDown": {
       "2026-03-03": 71,
       "2026-02-27": 42,
