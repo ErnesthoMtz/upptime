@@ -4,15 +4,15 @@
     "url": "https://preregistrate.mx",
     "icon": "https://icons.duckduckgo.com/ip3/preregistrate.mx.ico",
     "slug": "pre-registrate",
-    "status": "up",
+    "status": "down",
     "uptime": "98.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "94.24%",
     "time": 175,
-    "timeDay": 90,
-    "timeWeek": 166,
+    "timeDay": 106,
+    "timeWeek": 147,
     "timeMonth": 149,
     "timeYear": 178,
     "dailyMinutesDown": {
@@ -41,7 +41,8 @@
       "2025-07-12": 1440,
       "2025-12-24": 25,
       "2026-01-27": 33,
-      "2026-03-03": 72
+      "2026-03-03": 72,
+      "2026-06-10": 10
     }
   },
   {
@@ -49,22 +50,23 @@
     "url": "https://gamavirtual.mx",
     "icon": "https://icons.duckduckgo.com/ip3/gamavirtual.mx.ico",
     "slug": "gama-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 1412,
-    "timeDay": 113,
-    "timeWeek": 1474,
-    "timeMonth": 1488,
-    "timeYear": 1533,
+    "time": 1423,
+    "timeDay": 4516,
+    "timeWeek": 2075,
+    "timeMonth": 1631,
+    "timeYear": 1544,
     "dailyMinutesDown": {
       "2025-07-01": 17,
       "2025-12-24": 25,
       "2026-01-27": 32,
-      "2026-03-03": 72
+      "2026-03-03": 72,
+      "2026-06-10": 5
     }
   },
   {
@@ -72,17 +74,17 @@
     "url": "https://midesarrollotec.mx",
     "icon": "https://icons.duckduckgo.com/ip3/midesarrollotec.mx.ico",
     "slug": "mi-desarrollo-tec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "90.97%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.16%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.55%",
     "time": 1379,
-    "timeDay": 2025,
-    "timeWeek": 2675,
-    "timeMonth": 2041,
-    "timeYear": 1412,
+    "timeDay": 217,
+    "timeWeek": 2649,
+    "timeMonth": 2043,
+    "timeYear": 1411,
     "dailyMinutesDown": {
       "2025-06-11": 19,
       "2025-06-13": 22,
@@ -112,7 +114,8 @@
       "2026-05-08": 215,
       "2026-06-05": 15,
       "2026-06-04": 40,
-      "2026-06-08": 130
+      "2026-06-08": 130,
+      "2026-06-10": 0
     }
   }
 ]
