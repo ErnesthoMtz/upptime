@@ -50,17 +50,17 @@
     "url": "https://midesarrollotec.mx",
     "icon": "https://icons.duckduckgo.com/ip3/midesarrollotec.mx.ico",
     "slug": "mi-desarrollo-tec",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.55%",
-    "time": 1390,
-    "timeDay": 141,
-    "timeWeek": 1755,
-    "timeMonth": 1400,
-    "timeYear": 1380,
+    "time": 1382,
+    "timeDay": 248,
+    "timeWeek": 1580,
+    "timeMonth": 1367,
+    "timeYear": 1377,
     "dailyMinutesDown": {
       "2025-08-26": 18,
       "2025-09-01": 22,
@@ -82,7 +82,7 @@
       "2026-06-04": 40,
       "2026-06-08": 130,
       "2026-06-10": 250,
-      "2026-08-17": 0
+      "2026-08-17": 20
     }
   }
 ]
